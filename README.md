@@ -44,13 +44,14 @@
 
 
 # 중간고사 대체 과제 포토샵 🚀
-## 욜로 V3를 활용한 객체 탐지와 간단한 줌, 워핑기능을 구현하여 포토샵을 제작 🌟
+   
+##### 욜로 V3를 활용한 객체 탐지와 간단한 줌, 워핑기능을 구현하여 포토샵을 제작 🌟
    
    
 
    
    
-# weights >>> 욜로 v3 작동을 위한 pretrained weight 다운로드 링크 🌟
+##### weights >>> 욜로 v3 작동을 위한 pretrained weight 다운로드 링크 🌟
    
 https://drive.google.com/file/d/1JLm2ecF3FkVLFO9Mm1FVAdTbI9pBDKin/view?usp=sharing
 https://drive.google.com/file/d/1ooWCVd1yEWOLOLhU688fKjs1XPu3OvdA/view?usp=sharing
