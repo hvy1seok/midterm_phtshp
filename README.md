@@ -56,8 +56,12 @@
 https://drive.google.com/file/d/1JLm2ecF3FkVLFO9Mm1FVAdTbI9pBDKin/view?usp=sharing
 https://drive.google.com/file/d/1ooWCVd1yEWOLOLhU688fKjs1XPu3OvdA/view?usp=sharing
 
+
    
-항목 1 | 항목 2 | 항목 3
+# 구현 기능 목록
+   
+  *  | 항목 2 | 항목 3
 ----- | ----- | -----
-내용을 | 추가할 | 수있다
-여기서도 | *강조 기능이* | **작동한다**
+YOLO V3 | **YOLO V3 라는 딥 러닝 객체 탐지 모델을 활용하여 사진내에서 다양한 객체를 검출** 
+ZOOM | **사진을 확대하는 줌 기능을 구현**
+WARP | **디지털 영상처리 기법중 하나인 워핑기법을 구현**
